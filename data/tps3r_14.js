@@ -1,0 +1,1 @@
+var json_tps3r_14 = {"type":"FeatureCollection","name":"tps3r_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Ket":"TPS 3R"},"geometry":{"type":"Point","coordinates":[108.156253021892624,-6.81675625896851]}}]}

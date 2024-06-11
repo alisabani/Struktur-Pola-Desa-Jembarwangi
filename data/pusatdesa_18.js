@@ -1,0 +1,1 @@
+var json_pusatdesa_18 = {"type":"FeatureCollection","name":"pusatdesa_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Ket":"Pusat Desa"},"geometry":{"type":"Point","coordinates":[108.137467566092411,-6.827616098198934]}}]}

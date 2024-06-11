@@ -1,0 +1,1 @@
+var json_PPL_19 = {"type":"FeatureCollection","name":"PPL_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Ket":"Pusat Pelayanan Lingkungan"},"geometry":{"type":"Point","coordinates":[108.155942637238553,-6.817004014997857]}}]}

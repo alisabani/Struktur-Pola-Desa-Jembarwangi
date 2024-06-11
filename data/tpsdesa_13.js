@@ -1,0 +1,1 @@
+var json_tpsdesa_13 = {"type":"FeatureCollection","name":"tpsdesa_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0,"Ket":"TPS Desa"},"geometry":{"type":"Point","coordinates":[108.15775347813765,-6.817405498537281]}}]}
